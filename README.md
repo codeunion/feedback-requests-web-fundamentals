@@ -10,7 +10,7 @@ Follow the instructions on the [README](https://github.com/codeunion/codeunion-c
 
 ## Viewing Feedback Requests
 
-Head over to the [issues](issues) for the list of requests.
+Head over to the [issues](https://github.com/codeunion/feedback-requests-web-fundamentals/issues) for the list of requests.
 
 Open issues are requests that have not yet been responded to.
 
